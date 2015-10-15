@@ -1061,8 +1061,6 @@ h4 {
 }
 
 /* если анимации не доступны показывает только текст */
-
 .no-cssanimations .cb-slideshow li span {
     opacity: 1;
 }
-
