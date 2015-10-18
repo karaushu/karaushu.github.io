@@ -661,23 +661,21 @@ h4 {
 
 /*Scrollbar webkit ONLY!*/
 
-/*::-webkit-scrollbar {*/
-/*    width: 10px;*/
-/*}*/
 
-/*::-webkit-scrollbar-track {*/
-/*    background-color: #fff;*/
-/*    border-left: 1px solid #19B5FE;*/
-/*}*/
 
-/*::-webkit-scrollbar-thumb {*/
-/*    background-color: #6C7A89;*/
-/*    border-radius: 15px;*/
-/*}*/
+::-webkit-scrollbar-track {
+    background-color: #fff;
+    border-left: 1px solid #19B5FE;
+}
 
-/*::-webkit-scrollbar-thumb:hover {*/
-/*    background-color: #19B5FE;*/
-/*}*/
+::-webkit-scrollbar-thumb {
+    background-color: #6C7A89;
+    border-radius: 15px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+    background-color: #19B5FE;
+}
 
 /*TEST*/
 
